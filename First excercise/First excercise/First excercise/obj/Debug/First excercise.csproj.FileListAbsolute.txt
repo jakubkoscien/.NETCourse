@@ -1,0 +1,7 @@
+C:\Users\jakub\Desktop\Szkolonko C#\First excercise\First excercise\First excercise\obj\Debug\First excercise.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\Szkolonko C#\First excercise\First excercise\First excercise\obj\Debug\First excercise.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\Szkolonko C#\First excercise\First excercise\First excercise\bin\Debug\First excercise.exe.config
+C:\Users\jakub\Desktop\Szkolonko C#\First excercise\First excercise\First excercise\bin\Debug\First excercise.exe
+C:\Users\jakub\Desktop\Szkolonko C#\First excercise\First excercise\First excercise\bin\Debug\First excercise.pdb
+C:\Users\jakub\Desktop\Szkolonko C#\First excercise\First excercise\First excercise\obj\Debug\First excercise.exe
+C:\Users\jakub\Desktop\Szkolonko C#\First excercise\First excercise\First excercise\obj\Debug\First excercise.pdb
