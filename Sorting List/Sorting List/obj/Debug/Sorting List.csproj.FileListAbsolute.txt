@@ -1,0 +1,7 @@
+C:\Users\jakub\Desktop\Szkolonko C#\Sorting List\Sorting List\bin\Debug\Sorting List.exe.config
+C:\Users\jakub\Desktop\Szkolonko C#\Sorting List\Sorting List\bin\Debug\Sorting List.exe
+C:\Users\jakub\Desktop\Szkolonko C#\Sorting List\Sorting List\bin\Debug\Sorting List.pdb
+C:\Users\jakub\Desktop\Szkolonko C#\Sorting List\Sorting List\obj\Debug\Sorting List.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\Szkolonko C#\Sorting List\Sorting List\obj\Debug\Sorting List.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\Szkolonko C#\Sorting List\Sorting List\obj\Debug\Sorting List.exe
+C:\Users\jakub\Desktop\Szkolonko C#\Sorting List\Sorting List\obj\Debug\Sorting List.pdb

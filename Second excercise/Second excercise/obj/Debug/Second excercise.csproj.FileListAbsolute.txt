@@ -1,0 +1,7 @@
+C:\Users\jakub\Desktop\Szkolonko C#\Second excercise\Second excercise\Second excercise\bin\Debug\Second excercise.exe.config
+C:\Users\jakub\Desktop\Szkolonko C#\Second excercise\Second excercise\Second excercise\bin\Debug\Second excercise.exe
+C:\Users\jakub\Desktop\Szkolonko C#\Second excercise\Second excercise\Second excercise\bin\Debug\Second excercise.pdb
+C:\Users\jakub\Desktop\Szkolonko C#\Second excercise\Second excercise\Second excercise\obj\Debug\Second excercise.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\Szkolonko C#\Second excercise\Second excercise\Second excercise\obj\Debug\Second excercise.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\Szkolonko C#\Second excercise\Second excercise\Second excercise\obj\Debug\Second excercise.exe
+C:\Users\jakub\Desktop\Szkolonko C#\Second excercise\Second excercise\Second excercise\obj\Debug\Second excercise.pdb
